@@ -1,0 +1,11 @@
+blockdiag {
+		Structure 
+		Structure -> Building
+		Structure -> Building -> Hexayurt.com
+		Structure -> Foundation 
+		Structure -> Power
+		Structure -> Power -> "Solar cells"
+		Structure -> Power -> "Charge controller"
+		Structure -> Power -> Batteries
+		Structure -> Power -> Inverter
+		}
